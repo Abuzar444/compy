@@ -19,7 +19,6 @@ root.render(
 			redirect_uri: window.location.origin
 		}}
 	>
-
 		<UserProvider>
 			<ProductsProvider>
 				<FilterProvider>
