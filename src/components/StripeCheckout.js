@@ -284,4 +284,6 @@ const Wrapper = styled.section`
   }
 `;
 
+// coomment
+
 export default StripeCheckout;
